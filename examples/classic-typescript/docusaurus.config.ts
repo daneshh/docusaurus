@@ -75,9 +75,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'ایزی پینگ',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'ایزی پینگ',
         src: 'img/logo.svg',
       },
       items: [
@@ -87,10 +87,10 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        //{to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://ezping.ir',
+          label: 'EZPing.ir',
           position: 'right',
         },
       ],
