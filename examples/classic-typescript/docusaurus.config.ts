@@ -29,6 +29,11 @@ const config: Config = {
   i18n: {
     defaultLocale: 'fa',
     locales: ['fa'],
+    localeConfigs: {
+      fa: {
+        direction: 'rtl',
+      },
+    }
   },
 
   presets: [
