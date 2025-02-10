@@ -1,4 +1,5 @@
 ---
+slug: /tutorial-basics/بای پس
 sidebar_position: 5
 ---
 
