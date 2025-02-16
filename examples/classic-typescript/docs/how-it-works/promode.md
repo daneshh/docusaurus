@@ -22,7 +22,7 @@ sidebar_position: 2
 
 برای استفاده از حالت Pro ، کافیست سوییچ Pro رو روشن کنید و دکمه ی کانکت را بزنید. ( برای مشاهده ی دکمه ی Pro ، اکانت شما باید پلن Pro باشد )
 
-**این تکنولوژی فناوری اختصاصی [EZPing](https://ezping.ir/) بوده و تا به اکنون نمونه مشابهی ندارد.**
+
 
 
 
@@ -36,7 +36,7 @@ sidebar_position: 2
 **از فعال کردن شبکه های EZPingPro ، EZPing Tap-Adapters و همچنین Loopback Adapter اکیدا خودداری کنید زیرا باعث مختل شدن سرویس میشود. فقط شبکه هایی که نامش برایتان آشناست و سورس اصلی اینترنت ورودی به سیستم شما هستند را فعال / غیر فعال کنید.**
 
 
-# عکس راهنمای وب کنسول EZPing Pro
+**راهنمای وب کنسول EZPing Pro**
 
 ![winver-run](./img/EZPingProWebConsole1.png)
 ![winver-run](./img/EZPingProWebConsole2.png)
@@ -55,3 +55,5 @@ sidebar_position: 2
 
 
 
+
+**این تکنولوژی فناوری اختصاصی [EZPing](https://ezping.ir/) بوده و تا به اکنون نمونه مشابهی ندارد.**
