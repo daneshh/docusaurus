@@ -2,6 +2,6 @@
 sidebar_position: 3
 ---
 
-# پلن VIP  
+# پلن وی آی پی ( VIP )
 
 شسیشسی
