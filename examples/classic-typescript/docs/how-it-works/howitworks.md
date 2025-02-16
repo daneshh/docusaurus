@@ -1,5 +1,6 @@
 ---
-sidebar_position: 6
+slug: /
+sidebar_position: 1
 ---
 
 # کارکرد برنامه و قابلیت ها
