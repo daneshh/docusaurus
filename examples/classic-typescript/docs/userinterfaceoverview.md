@@ -5,7 +5,7 @@ sidebar_position: 5
 # راهنمای رابط کاربری
 
 
-  - رابط کاربری صفحه ی ورود ( Login )
+  - **رابط کاربری صفحه ی ورود ( Login )**
 
 ![winver-run](./img/LoginScreenOverview.png)
 
@@ -20,7 +20,11 @@ sidebar_position: 5
 
 
 
-  - رابط کاربری صفحه اصلی برنامه ( Main Menu )
+
+  
+  
+  
+  - **رابط کاربری صفحه اصلی برنامه ( Main Menu )**
 
 
 ![winver-run](./img/MainMenuOverview.png)
