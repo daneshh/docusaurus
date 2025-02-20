@@ -99,41 +99,41 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'لینک ها',
           items: [
             {
-              label: 'Tutorial',
-              to: '/intro',
+              label: 'وبسایت ایزی پینگ',
+              to: 'https://ezping.ir',
+            },
+            {
+              label: 'راهنمای فنی',
+              to: '/',
+            },
+            {
+              label: 'وضعیت سرور ها',
+              to: 'https://status.ezping.ir',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'فضای مجازی',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'تلگرام',
+              href: 'https://t.me/ezping',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'دیسکورد',
+              href: 'https://discord.com/channels/471455431969996802/1285359158866214993',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'ارتباط با ما',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'تلگرام',
+              to: 'https://t.me/ezping_support',
             },
           ],
         },
