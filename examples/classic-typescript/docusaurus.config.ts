@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'راهنمای فنی ایزی پینگ',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Powering your gaming network',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
