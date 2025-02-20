@@ -9,10 +9,10 @@ sidebar_position: 1
 
 از جمله سرویس های اراعه شده در این پلن: 
 
-- سرویس Discord
-- سرویس LAN ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/lan) رو مطالعه کنید )
-- سرویس TrueDNS ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/truedns) رو مطالعه کنید )
-- سرویس Music ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/msuicplatforms) رو مطالعه کنید )
+- سرویس **Discord**
+- سرویس **LAN** ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/lan) رو مطالعه کنید )
+- سرویس **TrueDNS** ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/truedns) رو مطالعه کنید )
+- سرویس **Music** ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/msuicplatforms) رو مطالعه کنید )
 - سرویس پلتفرم های هوش مصنوعی ( به زودی ... )
 
 # ویژگی های این طرح: 
