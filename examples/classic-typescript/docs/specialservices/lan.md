@@ -28,7 +28,6 @@ sidebar_position: 2
 for /f "tokens=2 delims=:" %A in ('ipconfig ^| findstr "192.168.127."') do @echo %A
 ```
 
+![winver-run](./img/searchcmd.png) ![winver-run](./img/cmdlanip.png)
 
-
-
-
+در مثال فوق، آی پی تخصیص داده شده **192.168.127.9** می باشد.
