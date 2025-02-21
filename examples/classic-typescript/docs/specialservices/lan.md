@@ -24,6 +24,11 @@ sidebar_position: 2
 سپس در صفحه ی CMD عبارت زیر را بنویسید: 
 
 
+```bash
+for /f "tokens=2 delims=:" %A in ('ipconfig ^| findstr "192.168.127."') do @echo %A
+```
+
+
 
 
 
