@@ -12,4 +12,4 @@ sidebar_position: 10
 
 # آموزش نحوه اتصال به EZPing با OpenVPN: 
 
-بدین منظور پس از دانلود و نصب برنامه از لینک های رسمی، **[فایل کانفیگ EZPing](http://ir.ezping.ir/downloads/cfg.ovpn)** را که یک فایل کانفیگ **OpenVPN** با پسوند **ovpn.** است را دانلود کنید و آن را در برنامه **OpenVPN** ایمپورت ( **import** ) کنید.
+بدین منظور پس از دانلود و نصب برنامه از لینک های رسمی، **[فایل کانفیگ EZPing](http://ir.ezping.ir/downloads/cfg.ovpn)**، که یک فایل کانفیگ **OpenVPN** با پسوند **ovpn.** است، را دانلود کنید و آن را در برنامه **OpenVPN** ایمپورت ( **import** ) کنید.
