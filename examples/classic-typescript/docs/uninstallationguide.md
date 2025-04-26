@@ -9,7 +9,7 @@ sidebar_position: 5
 
  - پاک کردن برنامه با استفاده از فایل **Uninstall EZPing.exe** موجود در مسیر زیر :
 ```bash
-C:\Program Files\EZPing\unins000.exe
+C:\Program Files\EZPing\Uninstall EZPing.exe
 ```
 
 ![winver-run](./img/uninstall-from-directory.webp)
