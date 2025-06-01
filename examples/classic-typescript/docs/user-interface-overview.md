@@ -7,7 +7,7 @@ sidebar_position: 6
 
   - **رابط کاربری صفحه ی ورود ( Login )**
 
-![winver-run](./img/login-screen-ui.webp)
+![winver-run](./img/login-screen-ui.png)
 
 
 
@@ -21,7 +21,7 @@ sidebar_position: 6
   - **رابط کاربری صفحه اصلی برنامه ( Main Menu )**
 
 
-![winver-run](./img/main-app-ui.webp)
+![winver-run](./img/main-app-ui.png)
 
 1. نوع بسته فعال روی اکانت ( برای اطلاعات بیشتر راجع به بسته های مختلف [این بخش](https://docs.ezping.ir/category/%D9%BE%D9%84%D9%86-%D9%87%D8%A7%DB%8C-%D8%A7%DA%A9%D8%A7%D9%86%D8%AA) را مطالعه کنید ) 
 2. نام کاربری اکانت
