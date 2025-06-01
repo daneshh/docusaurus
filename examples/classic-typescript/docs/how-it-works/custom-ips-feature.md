@@ -2,5 +2,5 @@
 sidebar_position: 4
 ---
 
-# قابلیت Custom IP
+# قابلیت اضافه کردن Custom IP
 
