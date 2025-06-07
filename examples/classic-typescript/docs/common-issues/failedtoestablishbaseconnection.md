@@ -6,7 +6,7 @@ sidebar_position: 2
 
 اگر در زمان وارد شدن به اکانت خود و یا در زمان کانکت شدن با خطای زیر مواجه شدید، دلیل آن مشکل در برقراری اتصال با سرور اصلی ایزی پینگ می باشد. 
 
-![winver-run](./img/invalidcred.png)
+![winver-run](./img/connectionfailedpleasetryagainlater.png)
 
 
 
