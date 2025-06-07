@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # مشکل هنگ کردن روی Restarting Adapters
 
-اگر پس از فشردن دکمه Connect مراحل اتصال روی حالت Restarting Adapters هنگ کرد، دلیل آن پاک شدن یا دستکاری شدن آداپتور **EZPing** است که معمولا این مشکل توسط برنامه های مشابه بوجود می آید.
+اگر پس از فشردن دکمه **Connect** مراحل اتصال روی حالت **Restarting Adapters** هنگ کرد، دلیل آن پاک شدن یا دستکاری شدن آداپتور **EZPing** است که معمولا این مشکل توسط برنامه های مشابه بوجود می آید.
 
 
 ![winver-run](./img/connectionfailedpleasetryagainlater.png)
