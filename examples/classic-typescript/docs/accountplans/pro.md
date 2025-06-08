@@ -43,7 +43,7 @@ sidebar_position: 4
 
 # بررسی اجمالی ویژگی های پلن Pro : 
 
-- امکان استفاده از [**قابلیت Multi-Net**](https://docs.ezping.ir/how-it-works/multi-net-mode)
+- امکان استفاده از قابلیت [**Multi-Net**](https://docs.ezping.ir/how-it-works/multi-net-mode)
 - امکان استفاده از قابلیت [**Custom IP**](https://docs.ezping.ir/how-it-works/custom-ips-feature)
 - **این پلن دارای محدودیت اتصال یک کاربر همزمان ( تک کاربره ) بوده و در صورت اتصال بیش از یک کاربر با نام کاربری یکسان، ارتباط شما با سرور قطع خواهد شد.**
 - هیچ یک از طرح های **[EZPing](https://ezping.ir/)** شامل محدودیت مدت زمان اتصال نیست.
