@@ -23,7 +23,7 @@ sidebar_position: 1
 - سرویس **LAN** ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/lan) را مطالعه کنید )
 - سرویس **TrueDNS** ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/truedns) را مطالعه کنید )
 - سرویس **Music** ( برای اطلاعات بیشتر راجع به این سرویس [اینجا](https://docs.ezping.ir/specialservices/music-platforms) را مطالعه کنید )
-- سرویس پلتفرم های هوش مصنوعی ( به زودی ... )
+- سرویس پلتفرم های هوش مصنوعی
 
 
 
