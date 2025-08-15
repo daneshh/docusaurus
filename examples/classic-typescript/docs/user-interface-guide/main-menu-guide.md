@@ -6,6 +6,9 @@ sidebar_position: 2
 
 # رابط کاربری صفحه اصلی برنامه ( Main Menu )
 
+راهنمای رابط کاربری صفحه اصلی برنامه
+
+
 
 ![winver-run](./img/main-app-ui.png)
 
