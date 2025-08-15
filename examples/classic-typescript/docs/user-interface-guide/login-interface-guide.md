@@ -2,10 +2,9 @@
 sidebar_position: 1
 ---
 
-# راهنمای رابط کاربری
+# رابط کاربری صفحه ورود ( Login )
 
 
-  - **رابط کاربری صفحه ورود ( Login )**
 
 ![winver-run](./img/login-screen-ui.png)
 
@@ -21,7 +20,7 @@ sidebar_position: 1
 8. دکمه ورود به تنظیمات برنامه
 
 
-  - **رابط کاربری صفحه اصلی برنامه ( Main Menu )**
+# رابط کاربری صفحه اصلی برنامه ( Main Menu )
 
 
 ![winver-run](./img/main-app-ui.png)
@@ -43,7 +42,7 @@ sidebar_position: 1
 15. سوییچ انتخاب لوکیشن و سرور برای این سرویس
 
 
-  - **رابط کاربری صفحه تنظیمات برنامه (Settings)**
+# رابط کاربری صفحه تنظیمات برنامه (Settings)
 
 ![winver-run](./img/settings-menu.png)
 1. دکمه خروج از صفحه تنظیمات
