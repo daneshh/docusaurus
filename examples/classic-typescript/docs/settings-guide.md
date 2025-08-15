@@ -10,7 +10,7 @@ sidebar_position: 13
 در این بخش توضیحاتی در رابطه با گزینه های موجود در صفحه تنظیمات ارائه شده است.
 
 
-![winver-run](./img/settings-menu.png)
+![winver-run](./user-interface-guide/img/settings-menu.png)
 
 # بخش Connection Protocol
 
