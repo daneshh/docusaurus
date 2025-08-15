@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # رابط کاربری صفحه ورود ( Login )
 
-راهنمای رابط کاربری صفحه ورود ( Login )
+راهنمای رابط کاربری صفحه ورود
 
 
 ![winver-run](./img/login-screen-ui.png)
