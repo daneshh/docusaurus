@@ -38,7 +38,7 @@ sidebar_position: 1
 11. دکمه باز کردن وب کنسول تنظیمات Multi-Internet ( برای اطلاعات بیشتر راجع به وب کنسول تنظیمات [این بخش](https://docs.ezping.ir/how-it-works/multi-net-mode#:~:text=%D9%88%D8%A8%20%DA%A9%D9%86%D8%B3%D9%88%D9%84%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20Multi%2DNet) را مطالعه کنید )
 12. سوییچ انتخاب بین حالت **Bypass** یا **Full** ( برای اطلاعات بیشتر در این مورد، [اینجا](https://docs.ezping.ir/how-it-works/bypass-vs-full) را مطالعه کنید. )
 13. سوییچ انتخاب بین حالت **Single** یا **Multi-net** ( برای اطلاعات بیشتر در این مورد، [اینجا](https://docs.ezping.ir/how-it-works/multi-net-mode) را مطالعه کنید. )
-14. سوییچ انتخاب بین حالت اتصال Network Layer و App Layer ( برای اطلاعات بیشتر در این مورد، [اینجا]() را مطالعه کنید. )
+14. سوییچ انتخاب بین حالت اتصال Network Layer و App Layer ( برای اطلاعات بیشتر در این مورد، اینجا را مطالعه کنید. )
 15. سوییچ انتخاب لوکیشن و سرور برای این سرویس
 
 
