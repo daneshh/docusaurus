@@ -16,7 +16,7 @@ sidebar_position: 4
 ![winver-run](./img/download-app.webp)
 
 همچنین می توانید به صورت مستقیم از لینک زیر آخرین نسخه نرم افزار را دریافت کنید.
-[`https://ir.ezping.ir/download/latest`](https://ir.ezping.ir/download/latest)
+**[`https://ir.ezping.ir/download/latest`](https://ir.ezping.ir/download/latest)**
 
 
 
