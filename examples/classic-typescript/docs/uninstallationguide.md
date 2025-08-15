@@ -21,3 +21,5 @@ C:\Program Files\EZPing\Uninstall EZPing.exe
 
 ![winver-run](./img/uninstall-from-controlpanel.webp)
 
+
+**لازم به ذکر است که Uninstall کردن برنامه ایزی پینگ تمامی فایل ها و تنظیمات مربوط به ایزی پینگ و تغییرات ایجاد شده توسط ایزی پینگ در سیستم را حذف می کند.**
