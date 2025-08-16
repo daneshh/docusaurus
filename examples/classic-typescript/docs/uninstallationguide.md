@@ -19,7 +19,7 @@ C:\Program Files\EZPing\Uninstall EZPing.exe
 
 ## پاک کردن برنامه با استفاده از Control Panel
 
-وارد کنترل پنل شده و از راه **Programs and Features** برنامه را به صورت کامل پاک کنید.
+همچنین می توانید وارد کنترل پنل شده و از راه **Programs and Features** برنامه را به صورت کامل پاک کنید.
 
 ![winver-run](./img/uninstall-from-controlpanel.webp)
 
