@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ## سربرگ General Settings
 
-![winver-run](./img/settings-menu.png)
+![winver-run](./img/settings-tab-general.png)
 
 1. دکمه خروج از صفحه تنظیمات
 2. انتخاب سربرگ های مختلف تنظیمات
