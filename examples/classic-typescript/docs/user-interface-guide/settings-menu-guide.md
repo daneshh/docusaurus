@@ -16,6 +16,12 @@ sidebar_position: 3
 4. دکمه ست کردن DNS عمومی ایزی پینگ و گوگل، همچنین پاک کردن Cache دی ان اس سیستم (برای اطلاعات بیشتر راجع به این گزینه، [این بخش](https://docs.ezping.ir/settings-guide#:~:text=%D8%A8%D8%AE%D8%B4%20Connection%20Troubleshooter) را مطالعه کنید.)
 
 
+
+
 ## سربرگ App Layer Locations
 
 ![winver-run](./img/settings-tab-applayerlocations.png)
+
+1. فیلد جست و جو لوکیشن و سرور بر اساس نام
+2. ستون سرور های **Direct**
+3. ستون سرور های **Tunnel**
