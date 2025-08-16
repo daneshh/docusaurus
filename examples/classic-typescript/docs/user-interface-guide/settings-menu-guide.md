@@ -25,3 +25,10 @@ sidebar_position: 3
 1. فیلد جست و جو لوکیشن و سرور بر اساس نام
 2. ستون سرور های **Direct**
 3. ستون سرور های **Tunnel**
+
+## سربرگ Troubleshooting
+
+![winver-run](./img/settings-tab-troubleshooting.png)
+
+1. دکمه شروع فرآیند عیب یابی اتوماتیک ( برای اطلاعات بیشتر این لینک را مطالعه کنید )
+
