@@ -26,6 +26,6 @@ sidebar_position: 2
 for /f "tokens=2 delims=:" %A in ('ipconfig ^| findstr "172.16."') do @echo %A
 ```
 
-![winver-run](./img/searchcmd.png) ![winver-run](./img/cmdlanip.png)
+![winver-run](./img/cmdlanip.png)
 
 در مثال فوق، IP دریافتی **172.16.244.182** است.
