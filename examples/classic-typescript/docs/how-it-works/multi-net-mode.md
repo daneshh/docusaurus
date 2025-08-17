@@ -38,7 +38,7 @@ sidebar_position: 2
 _از فعال کردن شبکه های**EZPingPro** ، **EZPing Tap-Adapters** و همچنین **Loopback Adapter** اکیدا خودداری کنید زیرا باعث مختل شدن سرویس می شود. فقط شبکه هایی که نامش برایتان آشناست و سورس اصلی اینترنت ورودی به سیستم شما هستند را فعال / غیر فعال کنید._
 
 
-## راهنمای وب کنسول Multi-Net
+**راهنمای وب کنسول Multi-Net**
 
 ![winver-run](./img/EZPingProWebConsole1.png)
 ![winver-run](./img/EZPingProWebConsole2.png)
