@@ -12,7 +12,7 @@ sidebar_position: 2
 
 نحوه ی عملکرد حالت **Multi-Net** به گونه ای است که کاربر می تواند با بهره گیری همزمان از دو یا چند اینترنت به سرور های مورد نظر متصل شده و در هنگام بازی با بهترین پینگ، اتصالی بدون قطعی و **Packet loss** را تجربه کند. 
 
-![winver-run](./img/pro-connected.webp)
+![winver-run](./img/pro-connected.png)
 
 در تصویر بالا بازی **World of Warcraft** با حالت **Multi-Net** متصل است.
 
