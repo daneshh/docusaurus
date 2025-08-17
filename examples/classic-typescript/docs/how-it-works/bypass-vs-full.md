@@ -6,7 +6,7 @@ sidebar_position: 3
 
 در سرویس رفع تحریم **[EZPing](https://ezping.ir/)**، سرویس ها و بازی ها بسته به نوع تحریم اعمال شده، دارای دو حالت اتصال **Bypass** و **Full** هستند. شما می توانید پس از انتخاب بازی یا سرویس مورد نظر، حالت رفع تحریم آن را انتخاب کنید.
 
-![winver-run](./img/bypass-vs-full.webp)
+![winver-run](./img/bypass-vs-full.png)
 
 
 ## حالت Bypass 
