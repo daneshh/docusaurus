@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# حالت Multi-net
+# قابلیت Multi-net
 
 
 
