@@ -8,7 +8,7 @@ sidebar_position: 1
 
 
 
-![winver-run](./settings-guide/img/connection-protocol.png)
+![winver-run](./img/connection-protocol.png)
 
 
 ## بخش Connection Protocol
