@@ -16,5 +16,5 @@ sidebar_position: 3
 
 در این مرحله تمامی آداپتر های فعال سیستم چک شده و **DNS** آنها پاک شده و بر روی حالت اتوماتیک قرار می گیرد. همچنین **Metric** این آداپتر ها نیز به حالت اتوماتیک تغییر می کند.
 
-![winver-run](./img/app-layer-locations.png)
+![winver-run](./img/troubleshooting-step1.png)
 
