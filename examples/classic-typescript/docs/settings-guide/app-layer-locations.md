@@ -6,8 +6,7 @@ sidebar_position: 2
 
 در این سربرگ از تنظیمات شما می توانید لوکیشن و سرور مورد نظر خود برای ارتباط **App Layer** را انتخاب کنید. ( برای اطلاعات بیشتر راجع به حالت **App Layer** اینجا را مطالعه کنید )
 
-
-examples/classic-typescript/docs/user-interface-guide/img/settings-tab-applayerlocations.png
+![winver-run](./img/settings-tab-applayerlocations.png)
 
 
 
